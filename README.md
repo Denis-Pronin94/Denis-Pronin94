@@ -49,13 +49,42 @@ Here are some ideas to get you started:
 
 ## Тестирование REST API
 :link: Тестовый проект: <a target="_blank" href="https://github.com/Denis-Pronin94/api_tests_diplom">api_tests_diplom</a></br></br>
-![This is an image](/logoForWeb/Java.png)![This is an image](/logoForWeb/Gradle.png)![This is an image](/logoForWeb/Rest-Assured.png)![This is an image](/logoForWeb/Intelij_IDEA.png)![This is an image](/logoForWeb/JUnit5.png)![This is an image](/logoForWeb/Jenkins.png)![This is an image](/logoForWeb/Allure_Report.png)![This is an image](/logoForWeb/AllureTestOps.png)![This is an image](/logoForWeb/Telegram.png)</br></br>
+
+<p align="center">
+<img width="8%" title="IntelliJ IDEA" src="/logoForApi/Intelij_IDEA.svg">
+<img width="8%" title="Java" src="/logoForApi/Java.svg">
+<img width="8%" title="JUnit5" src="/logoForApi/JUnit5.svg">
+<img width="8%" title="Selenide" src="/logoForApi/Selenide.svg">
+<img width="8%" title="Gradle" src="/logoForApi/Gradle.svg">
+<img width="8%" title="GitHub" src="/logoForApi/GitHub.svg">
+<img width="8%" title="Jenkins" src="/logoForApi/Jenkins.svg">
+<img width="8%" title="Allure Report" src="/logoForApi/Allure_Report.svg">
+<img width="8%" title="Allure Report" src="/logoForApi/AllureTestOps.svg">
+<img width="8%" title="Telegram" src="/logoForApi/Telegram.svg">
+</p>
+
 :heavy_check_mark: Реализованы автотесты Rest Api.</br></br>
 
 
 ## Тестирование мобильного приложения
 :link: Тестовый проект: <a target="_blank" href="https://github.com/Denis-Pronin94/mobile_tests_diplom">mobile_tests_diplom</a></br></br>
-![This is an image](/logoForWeb/Java.png)![This is an image](/logoForWeb/Gradle.png)![This is an image](/logoForWeb/Intelij_IDEA.png)![This is an image](/logoForWeb/Selenide.png)![This is an image](/logoForWeb/Selenoid.png)![This is an image](/logoForWeb/JUnit5.png)![This is an image](/logoForWeb/Allure_Report.png)![This is an image](/logoForWeb/AllureTestOps.png)![This is an image](/logoForWeb/appium.png) ![This is an image](/logoForWeb/androidstudio.png)</br></br>
+
+<p align="center">
+<img width="6%" title="IntelliJ IDEA" src="/logoForMobile/Intelij_IDEA.svg">
+<img width="6%" title="Java" src="/logoForMobile/Java.svg">
+<img width="6%" title="Selenide" src="/logoForMobile/Selenide.svg">
+<img width="6%" title="Appium" src="/logoForMobile/Appium.svg">
+<img width="6%" title="Browserstack" src="/logoForMobile/Browserstack.svg">
+<img width="6%" title="Selenoid" src="/logoForMobile/Selenoid.svg">
+<img width="6%" title="Allure Report" src="/logoForMobile/Allure_Report.svg">
+<img width="6%" title="AllureTestOps" src="/logoForMobile/AllureTestOps.svg">
+<img width="6%" title="Gradle" src="/logoForMobile/Gradle.svg">
+<img width="6%" title="JUnit5" src="/logoForMobile/JUnit5.svg">
+<img width="6%" title="GitHub" src="/logoForMobile/GitHub.svg">
+<img width="6%" title="Jenkins" src="/logoForMobile/Jenkins.svg">
+<img width="6%" title="Telegram" src="/logoForMobile/Telegram.svg">
+</p>
+
 :heavy_check_mark: Реализованы автотесты мобильного приложения Wikipedia на эмуляторе мобильного устройства.</br></br>
 
 </br></br>
