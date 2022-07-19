@@ -1,4 +1,4 @@
-### Привет! :cherry_blossom:
+### Привет!
 Меня зовут Денис. С декабря 2021 года я - инженер по тестированию программного обеспечения.</br>
 <!--
 **ElenaSkorobodilova/ElenaSkorobodilova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 <table width="100%" border='0'>
    <tr> 
-    <td width="30%" valign="bottom"><img src="/images/FDO80.jpg"></td><td valign="middle">Томский государственный исследовательский университет.</br>Факультет прикладной математики и кибернетики.</br>Математик.</td></tr>
-    <tr><td width="30%" valign="bottom"><img src="/images/Yandex.jpg"></td><td valign="middle">Томский государственный университет систем управления и радиоэлектроники.</br>Факультет дополнитеьного образования.</br>Тестирование и контроль качества программного обеспечения.</td>
+    <td width="30%" valign="bottom"><img src="/images/KGTU.jpg"></td><td valign="middle">Костромской Государственный Технологический Университет.</br>Механический факультет. Конструктроско-технологическое обеспечение машиностроительных производств.</br>Инженер-технолог.</td></tr>
+    <tr><td width="30%" valign="bottom"><img src="/images/Yandex.jpg"></td><td valign="middle">Яндекс.Практикум.</br>Инженер по тестированию.</br>Ручной тестировщик.</td>
     <tr><td width="30%" valign="bottom"><img src="/images/qa-guru80.png"></td><td valign="middle">Школа инженеров по автоматизации тестирования <a target="_blank" href="https://qa.guru">qa.guru</a>.</td></tr>
    </tr>
   </table>
