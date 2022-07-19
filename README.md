@@ -24,6 +24,13 @@ Here are some ideas to get you started:
   </table>
   </br>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElenaSkorobodilova)](https://github.com/ElenaSkorobodilova/github-readme-stats)
+
+## Дипломный проект
+Реализован во время обучения в Школе инженеров по автоматизации тестирования <a target="_blank" href="https://qa.guru">qa.guru</a>
+## Тестирование UI
+:link: Тестовый проект: <a target="_blank" href="https://github.com/Denis-Pronin94/web_tests_diplom">web_tests_diplom</a></br></br>
+
 <p align="center">
 <img width="8%" title="IntelliJ IDEA" src="images/logo/Intelij_IDEA.svg">
 <img width="8%" title="Java" src="images/logo/Java.svg">
@@ -38,11 +45,6 @@ Here are some ideas to get you started:
 <img width="8%" title="Telegram" src="images/logo/Telegram.svg">
 </p>
 
-## Дипломный проект
-Реализован во время обучения в Школе инженеров по автоматизации тестирования <a target="_blank" href="https://qa.guru">qa.guru</a>
-## Тестирование UI
-:link: Тестовый проект: <a target="_blank" href="https://github.com/Denis-Pronin94/web_tests_diplom">web_tests_diplom</a></br></br>
-![This is an image]<img width="8%" title="IntelliJ IDEA"(/icons/Intelij_IDEA.svg)![This is an image](/icons/Java.svg)![This is an image](/icons/JUnit5.svg)![This is an image](/icons/Selenide.svg)![This is an image](/icons/Gradle.svg)![This is an image](/icons/GitHub.svg)![This is an image](/icons/Jenkins.svg)![This is an image](/icons/Selenoid.svg)![This is an image](/icons/Allure_Report.svg)![This is an image](/icons/AllureTestOps.svg)![This is an image](/icons/Telegram.svg)</br></br>
 :heavy_check_mark: Реализованы автотесты UI на проверку элементов главной страницы компании "Расчетные системы".</br></br>
 
 ## Тестирование REST API
