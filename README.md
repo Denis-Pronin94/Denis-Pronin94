@@ -35,15 +35,15 @@ Here are some ideas to get you started:
 
 
 ## Тестирование REST API
-:link: Тестовый проект: <a target="_blank" href="https://github.com/ElenaSkorobodilova/open-library-api-tests">open-library-api-tests</a></br></br>
+:link: Тестовый проект: <a target="_blank" href="https://github.com/Denis-Pronin94/api_tests_diplom">api_tests_diplom</a></br></br>
 ![This is an image](/icons/Java.png)![This is an image](/icons/Gradle.png)![This is an image](/icons/Rest-Assured.png)![This is an image](/icons/Intelij_IDEA.png)![This is an image](/icons/JUnit5.png)![This is an image](/icons/Jenkins.png)![This is an image](/icons/Allure_Report.png)![This is an image](/icons/AllureTestOps.png)![This is an image](/icons/Telegram.png)</br></br>
-:heavy_check_mark: Реализованы автотесты Rest Api на проверку различных возможностей поиска на сайте https://openlibrary.org/.</br></br>
+:heavy_check_mark: Реализованы автотесты Rest Api.</br></br>
 
 
 ## Тестирование мобильного приложения
-:link: Тестовый проект: <a target="_blank" href="https://github.com/ElenaSkorobodilova/financisto-mobile-tests">financisto-mobile-tests</a></br></br>
+:link: Тестовый проект: <a target="_blank" href="https://github.com/Denis-Pronin94/mobile_tests_diplom">mobile_tests_diplom</a></br></br>
 ![This is an image](/icons/Java.png)![This is an image](/icons/Gradle.png)![This is an image](/icons/Intelij_IDEA.png)![This is an image](/icons/Selenide.png)![This is an image](/icons/Selenoid.png)![This is an image](/icons/JUnit5.png)![This is an image](/icons/Allure_Report.png)![This is an image](/icons/AllureTestOps.png)![This is an image](/icons/appium.png) ![This is an image](/icons/androidstudio.png)</br></br>
-:heavy_check_mark: Реализованы автотесты мобильного приложения financisto на эмуляторе мобильного устройства.</br></br>
+:heavy_check_mark: Реализованы автотесты мобильного приложения Wikipedia на эмуляторе мобильного устройства.</br></br>
 
 
 </br></br>
