@@ -30,9 +30,8 @@ Here are some ideas to get you started:
 Реализован во время обучения в Школе инженеров по автоматизации тестирования <a target="_blank" href="https://qa.guru">qa.guru</a>
 ## Тестирование UI
 :link: Тестовый проект: <a target="_blank" href="https://github.com/Denis-Pronin94/web_tests_diplom">web_tests_diplom</a></br></br>
-![This is an image](/icons/Java.png)![This is an image](/icons/Gradle.png)![This is an image](/icons/Intelij_IDEA.png)![This is an image](/icons/Selenide.png)![This is an image](/icons/Selenoid.png)![This is an image](/icons/JUnit5.png)![This is an image](/icons/Jenkins.png)![This is an image](/icons/Allure_Report.png)![This is an image](/icons/AllureTestOps.png)![This is an image](/icons/Telegram.png)![This is an image](/icons/Jira.png)</br></br>
+![This is an image](/icons/Intelij_IDEA.svg)![This is an image](/icons/Java.svg)![This is an image](/icons/JUnit5.svg)![This is an image](/icons/Selenide.svg)![This is an image](/icons/Gradle.svg)![This is an image](/icons/GitHub.svg)![This is an image](/icons/Jenkins.svg)![This is an image](/icons/Selenoid.svg)![This is an image](/icons/Allure_Report.svg)![This is an image](/icons/AllureTestOps.svg)![This is an image](/icons/Telegram.svg)</br></br>
 :heavy_check_mark: Реализованы автотесты UI на проверку элементов главной страницы компании "Расчетные системы".</br></br>
-
 
 ## Тестирование REST API
 :link: Тестовый проект: <a target="_blank" href="https://github.com/Denis-Pronin94/api_tests_diplom">api_tests_diplom</a></br></br>
