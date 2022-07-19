@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 <table width="100%" border='0'>
    <tr> 
     <td width="30%" valign="bottom"><img src="/images/KGTU.png"></td><td valign="middle">Костромской Государственный Технологический Университет.</br>Механический факультет. Конструктроско-технологическое обеспечение машиностроительных производств.</br>Инженер-технолог.</td></tr>
@@ -31,7 +30,7 @@ Here are some ideas to get you started:
 Реализован во время обучения в Школе инженеров по автоматизации тестирования <a target="_blank" href="https://qa.guru">qa.guru</a>
 ## Тестирование UI
 :link: Тестовый проект: <a target="_blank" href="https://github.com/Denis-Pronin94/web_tests_diplom">web_tests_diplom</a></br></br>
-![This is an image](/icons/Intelij_IDEA.svg)![This is an image](/icons/Java.svg)![This is an image](/icons/JUnit5.svg)![This is an image](/icons/Selenide.svg)![This is an image](/icons/Gradle.svg)![This is an image](/icons/GitHub.svg)![This is an image](/icons/Jenkins.svg)![This is an image](/icons/Selenoid.svg)![This is an image](/icons/Allure_Report.svg)![This is an image](/icons/AllureTestOps.svg)![This is an image](/icons/Telegram.svg)</br></br>
+![This is an image]<img width="8%" title="IntelliJ IDEA"(/icons/Intelij_IDEA.svg)![This is an image](/icons/Java.svg)![This is an image](/icons/JUnit5.svg)![This is an image](/icons/Selenide.svg)![This is an image](/icons/Gradle.svg)![This is an image](/icons/GitHub.svg)![This is an image](/icons/Jenkins.svg)![This is an image](/icons/Selenoid.svg)![This is an image](/icons/Allure_Report.svg)![This is an image](/icons/AllureTestOps.svg)![This is an image](/icons/Telegram.svg)</br></br>
 :heavy_check_mark: Реализованы автотесты UI на проверку элементов главной страницы компании "Расчетные системы".</br></br>
 
 ## Тестирование REST API
