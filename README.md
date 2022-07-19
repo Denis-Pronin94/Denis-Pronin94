@@ -24,7 +24,19 @@ Here are some ideas to get you started:
   </table>
   </br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElenaSkorobodilova)](https://github.com/ElenaSkorobodilova/github-readme-stats)
+<p align="center">
+<img width="8%" title="IntelliJ IDEA" src="images/logo/Intelij_IDEA.svg">
+<img width="8%" title="Java" src="images/logo/Java.svg">
+<img width="8%" title="JUnit5" src="images/logo/JUnit5.svg">
+<img width="8%" title="Selenide" src="images/logo/Selenide.svg">
+<img width="8%" title="Gradle" src="images/logo/Gradle.svg">
+<img width="8%" title="GitHub" src="images/logo/GitHub.svg">
+<img width="8%" title="Jenkins" src="images/logo/Jenkins.svg">
+<img width="8%" title="Selenoid" src="images/logo/Selenoid.svg">
+<img width="8%" title="Allure Report" src="images/logo/Allure_Report.svg">
+<img width="8%" title="Allure Report" src="images/logo/AllureTestOps.svg">
+<img width="8%" title="Telegram" src="images/logo/Telegram.svg">
+</p>
 
 ## Дипломный проект
 Реализован во время обучения в Школе инженеров по автоматизации тестирования <a target="_blank" href="https://qa.guru">qa.guru</a>
