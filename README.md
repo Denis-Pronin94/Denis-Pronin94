@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
 <table width="100%" border='0'>
    <tr> 
     <td width="30%" valign="bottom"><img src="/images/KGTU.png"></td><td valign="middle">Костромской Государственный Технологический Университет.</br>Механический факультет. Конструктроско-технологическое обеспечение машиностроительных производств.</br>Инженер-технолог.</td></tr>
