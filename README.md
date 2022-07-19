@@ -47,5 +47,5 @@ Here are some ideas to get you started:
 
 
 </br></br>
-:cherry_blossom: <a target="_blank" href="https://t.me/Denis_Pronin94">t.me/Denis_Pronin94</a>
+<a target="_blank" href="https://t.me/Denis_Pronin94">t.me/Denis_Pronin94</a>
 
