@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   </table>
   </br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElenaSkorobodilova)](https://github.com/ElenaSkorobodilova/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Denis-Pronin94)](https://github.com/Denis-Pronin94/github-readme-stats)
 
 ## Дипломный проект
 Реализован во время обучения в Школе инженеров по автоматизации тестирования <a target="_blank" href="https://qa.guru">qa.guru</a>
