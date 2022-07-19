@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 <img width="6%" title="Telegram" src="/logoForWeb/Telegram.svg">
 </p>
 
-:heavy_check_mark: Реализованы автотесты UI на проверку элементов главной страницы компании "Расчетные системы".</br></br>
+:heavy_check_mark: Реализованы автотесты UI на проверку элементов главной страницы сайта "https://tprs.ru/".</br></br>
 
 ## Тестирование REST API
 :link: Тестовый проект: <a target="_blank" href="https://github.com/Denis-Pronin94/api_tests_diplom">api_tests_diplom</a></br></br>
