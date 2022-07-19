@@ -32,17 +32,17 @@ Here are some ideas to get you started:
 :link: Тестовый проект: <a target="_blank" href="https://github.com/Denis-Pronin94/web_tests_diplom">web_tests_diplom</a></br></br>
 
 <p align="center">
-<img width="8%" title="IntelliJ IDEA" src="images/logo/Intelij_IDEA.svg">
-<img width="8%" title="Java" src="images/logo/Java.svg">
-<img width="8%" title="JUnit5" src="images/logo/JUnit5.svg">
-<img width="8%" title="Selenide" src="images/logo/Selenide.svg">
-<img width="8%" title="Gradle" src="images/logo/Gradle.svg">
-<img width="8%" title="GitHub" src="images/logo/GitHub.svg">
-<img width="8%" title="Jenkins" src="images/logo/Jenkins.svg">
-<img width="8%" title="Selenoid" src="images/logo/Selenoid.svg">
-<img width="8%" title="Allure Report" src="images/logo/Allure_Report.svg">
-<img width="8%" title="Allure Report" src="images/logo/AllureTestOps.svg">
-<img width="8%" title="Telegram" src="images/logo/Telegram.svg">
+<img width="8%" title="IntelliJ IDEA" src="/icons/Intelij_IDEA.svg">
+<img width="8%" title="Java" src="/icons/Java.svg">
+<img width="8%" title="JUnit5" src="/icons/JUnit5.svg">
+<img width="8%" title="Selenide" src="/icons/Selenide.svg">
+<img width="8%" title="Gradle" src="/icons/Gradle.svg">
+<img width="8%" title="GitHub" src="/icons/GitHub.svg">
+<img width="8%" title="Jenkins" src="/icons/Jenkins.svg">
+<img width="8%" title="Selenoid" src="/icons/Selenoid.svg">
+<img width="8%" title="Allure Report" src="/icons/Allure_Report.svg">
+<img width="8%" title="Allure Report" src="/icons/AllureTestOps.svg">
+<img width="8%" title="Telegram" src="/icons/Telegram.svg">
 </p>
 
 :heavy_check_mark: Реализованы автотесты UI на проверку элементов главной страницы компании "Расчетные системы".</br></br>
