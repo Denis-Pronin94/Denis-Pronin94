@@ -20,6 +20,7 @@ Here are some ideas to get you started:
     <td width="30%" valign="bottom"><img src="/images/KGTU.png"></td><td valign="middle">Костромской Государственный Технологический Университет.</br>Механический факультет. Конструктроско-технологическое обеспечение машиностроительных производств.</br>Инженер-технолог.</td></tr>
     <tr><td width="30%" valign="bottom"><img src="/images/Yandex.png"></td><td valign="middle">Яндекс.Практикум.</br>Инженер по тестированию.</br>Ручной тестировщик.</td>
     <tr><td width="30%" valign="bottom"><img src="/images/qa-guru80.png"></td><td valign="middle">Школа инженеров по автоматизации тестирования <a target="_blank" href="https://qa.guru">qa.guru</a>.</td></tr>
+    <tr><td width="30%" valign="bottom"><img src="/images/python.png"></td><td valign="middle">Самостоятельно изучаю Python. Мои проекты можно посмотреть в репозиториях.</td></tr>
    </tr>
   </table>
   </br>
